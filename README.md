@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gokul-Krishnan-12
-- 👀 I’m interested in Data science and Bussiness Analytics
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Data Analytics firm
+- 👀 I’m interested in building something New
+- 🌱 I’m currently a Full Stack Engineer who is learning to be the jack of all trades
 - 📫 How to reach me 
       Mail ID: gokulkrish80@gmail.com
 
